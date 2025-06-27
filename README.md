@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Navachaitanya</h1>
 <h3 align="center">Full stack Developer</h3>
 
-- 🔭 I have worked on [Gatepass Generation System](http://82.29.162.24/)
+- 🔭 I have worked on [Gatepass Generation System](http://82.29.162.24/) .A live project in my college.
 
 - 🌱 I’m currently learning **DSA with Java**
 
